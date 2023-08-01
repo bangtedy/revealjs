@@ -1,0 +1,6 @@
+project:
+  title: "revealjs"
+  output-dir: docs
+
+editor: visual
+
