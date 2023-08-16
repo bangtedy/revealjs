@@ -1,7 +1,10 @@
 ---
 title: "contoh1"
 author: "tedy"
-format: revealjs
+format: 
+  revealjs:
+    chalkboard: true
+    multiplex: true
 ---
 
 ## Quarto
